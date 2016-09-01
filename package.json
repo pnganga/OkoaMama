@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/pnganga/OkoaMama#readme",
   "dependencies": {
-    "africastalking": "0.0.6"
+    "africastalking": "0.0.6",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
   }
 }
