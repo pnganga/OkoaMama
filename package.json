@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pnganga/OkoaMama/issues"
   },
-  "homepage": "https://github.com/pnganga/OkoaMama#readme"
+  "homepage": "https://github.com/pnganga/OkoaMama#readme",
+  "dependencies": {
+    "africastalking": "0.0.6"
+  }
 }
